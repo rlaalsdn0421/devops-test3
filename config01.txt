@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 // devops-test configuration
 
 // since : 2025-04-07
+=======
+// devops-test cofiguration
+/sadqwd
+
+>>>>>>> Stashed changes
 // delete author
